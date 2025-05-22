@@ -28,3 +28,8 @@ window.addEventListener('scroll', () => {
         header.classList.remove('scrolled');
     }
 });
+
+function loadSection(sectionId) {
+  document.querySelectorAll("section").forEach(sec => sec.style.display = "none");
+  document.getElementById(sectionId).style.display = "block";
+}
