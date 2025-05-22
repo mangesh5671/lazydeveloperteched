@@ -398,6 +398,7 @@
   background-color: #f9f9f9;
   padding: 40px 20px;
   font-family: Arial, sans-serif;
+  margin-top:30px;
 } 
 
 .footer-container {
@@ -407,7 +408,7 @@
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 30px;
-  margin-top:30px;
+  
 }
 
 .footer-left,
