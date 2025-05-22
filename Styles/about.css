@@ -6,7 +6,7 @@
         }
 
         body {
-            min-height: 200vh; /* Extra height to demonstrate scrolling */
+            min-height: 100vh; /* Extra height to demonstrate scrolling */
         }
 
         header {
